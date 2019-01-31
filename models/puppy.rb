@@ -1,6 +1,6 @@
 class Puppy
 
-  attr_accessor :name, :breed, :age
+  attr_reader :name, :breed, :age
 
   def initalize(name, breed, age)
     @name = name
@@ -8,7 +8,7 @@ class Puppy
     @age = age
   end
 
-  
+
 
 
 
