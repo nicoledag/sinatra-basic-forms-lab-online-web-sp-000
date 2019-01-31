@@ -8,7 +8,7 @@ class Puppy
     @age = age
   end
 
-  
+
 
 
 
